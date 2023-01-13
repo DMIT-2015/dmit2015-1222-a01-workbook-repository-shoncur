@@ -1,6 +1,6 @@
 # DMIT2015 Fall 2022 assignments
 
-## yShaun Currie
+## Shaun Currie
 
 ## shoncur
 
